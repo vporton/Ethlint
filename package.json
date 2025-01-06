@@ -38,7 +38,7 @@
     "ajv": "^5.2.2",
     "chokidar": "^1.6.0",
     "colors": "^1.1.2",
-    "commander": "^2.9.0",
+    "commander": "^2.20.3",
     "diff": "^3.5.0",
     "eol": "^0.9.1",
     "js-string-escape": "^1.0.1",
