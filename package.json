@@ -35,8 +35,8 @@
   "author": "Raghav Dua <duaraghav8@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^5.2.2",
-    "chokidar": "^1.6.0",
+    "ajv": "^8.18.0",
+    "chokidar": "^3.0.0",
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "diff": "^3.5.0",
